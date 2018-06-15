@@ -1,0 +1,120 @@
+ .p{
+       padding:10px;
+       width:100%;
+       float:left;
+       margin-left:20px;
+       margin-top:20px;
+       margin-right:20px;
+    }
+   @media screen and (width: 95px) {
+    .a,.b,.c,.d,.e,.f,.g,.h{
+        position: relative;
+        width: 100%;
+    }
+}
+    .txt{
+	text-align:center;
+       color:skyblue;
+       }
+    img{
+       margin:0px auto;
+       border-radius:35px;
+       width:250px;
+       height:300px;
+       position:relative;
+       float:left;
+       margin-right:20px;
+       }  
+       
+  .a{
+     padding:10px;
+     width:260px;
+     border:2px solid blue;
+     margin-top:20px;
+     height:710px;
+     float:left;
+     margin-right:20px;
+     background-color:#42f4ad;
+     }
+    .b{
+     padding:10px;
+     width:260px;
+     border: 2px solid green;
+      float:left;
+      height:710px;
+      margin-top:20px;
+       margin-right:20px;
+       background-color:#e5e587;
+     } 
+     .c{
+     padding:10px;
+     width:260px;
+     border: 2px solid red;
+     margin-top:20px;
+     height:710px;
+      margin-right:20px;
+      float:left;
+       background-color:#f9c29f;
+     } 
+     .d{
+     padding:10px;
+     width:260; 
+     border:2px solid #1b3342;
+     margin-top:20px;
+     float:left;
+     height:710px;
+     margin-right:20px;
+     background-color:#9fd8f9;
+     }
+     .e{
+     padding:10px;
+     width:260px;
+     border: 2px solid navy;
+     margin-top:20px;
+      float:left;
+      height:710px;
+       margin-right:20px;
+       background-color:#efa2b2;
+     }
+     .f{
+     padding:10px;
+     width:260px;
+     border: 2px solid maroon;
+     margin-top:20px;
+     height:710px;
+      float:left;
+       margin-right:20px;
+       background-color:#e0b3ff;
+     }
+    .g{
+     padding:10px;
+     width:260px;
+     border: 2px solid #00ff22;
+     margin-top:20px;
+     height:710px;
+      float:left;
+       margin-right:20px;
+       background-color:#b3ffff;
+     }
+    .h{
+     padding:10px;
+     width:260px;
+     border: 2px solid purple;
+     margin-top:20px;
+     height:710px;
+      margin-right:20px;
+      float:left;
+      background-color:#ffff99;
+     }
+     .im{
+        width:240px;
+        height:320px;
+        margin-top:20px;
+        border-radius:30px;
+        padding:20px;
+        border: 2px solid #009999;
+        background-color:#ccffcc;
+        margin-right:20px;
+        margin-left:30px;
+        float:left;
+        }   
